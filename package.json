@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/heaganhenry/node-blog-app/issues"
   },
-  "homepage": "https://github.com/heaganhenry/node-blog-app#readme"
+  "homepage": "https://github.com/heaganhenry/node-blog-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

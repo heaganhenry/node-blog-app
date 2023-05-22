@@ -20,7 +20,7 @@ cd node-blog-app
 npm install
 ```
 
-4. Set up the MongoDB database by providing the DB_URI in the `.env` file:
+4. Set up the MongoDB database by providing the `DB_URI` in the `.env` file:  
 DB_URI=your-mongodb-connection-uri
 
 5. Start the server:
